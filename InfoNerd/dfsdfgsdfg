@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <section>
+	  <name>track1</name>
+	  <length>~3:20</length>
+	  <BPM>128</BPM>
+	  <Color>
+		<R>128</R>
+		<G>255</G>
+		<B>0</B>
+	  </Color>
+  </section>
+</info>
